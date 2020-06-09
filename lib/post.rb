@@ -4,12 +4,9 @@ class Post
   
   def initialize
     @title = title
-    @author = authoer
+    @author = author
   end  
   
-  def author=(author)
-    @author = author
-  end
   
   
   
